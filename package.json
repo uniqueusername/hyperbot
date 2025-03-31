@@ -6,6 +6,9 @@
   "version": "0.1.0",
   "main": "bot.js",
   "devDependencies": {},
+  "scripts": {
+    "start": "node bot.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/uniqueusername/hyperbot.git"
