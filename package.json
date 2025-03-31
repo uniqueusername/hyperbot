@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "discord.js": "^14.18.0"
+  },
+  "name": "hyperbot",
+  "version": "0.1.0",
+  "main": "bot.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uniqueusername/hyperbot.git"
+  },
+  "author": "ary",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uniqueusername/hyperbot/issues"
+  },
+  "homepage": "https://github.com/uniqueusername/hyperbot#readme",
+  "description": "",
+  "type": "module"
+}
